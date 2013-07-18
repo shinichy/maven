@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.novocode</groupId>
+    <groupId>com.shinichy</groupId>
     <artifactId>junit-interface</artifactId>
     <packaging>jar</packaging>
     <description>An implementation of sbt's test interface for JUnit 4</description>
@@ -17,7 +17,7 @@
     <name>JUnit-Interface</name>
     <inceptionYear>2009</inceptionYear>
     <organization>
-        <name>com.novocode</name>
+        <name>com.shinichy</name>
         <url>http://github.com/szeiger/junit-interface/</url>
     </organization>
     <developers>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.shinichy" module="junit-interface" revision="0.10-M4" status="release" publication="20130718094949">
+	<info organisation="com.shinichy" module="junit-interface" revision="0.10-M4" status="release" publication="20130718104522">
 		<license name="Two-clause BSD-style license" url="http://github.com/szeiger/junit-interface/blob/master/LICENSE.txt"/>
 		<description homepage="http://github.com/szeiger/junit-interface/">
 		An implementation of sbt&apos;s test interface for JUnit 4
@@ -12,10 +12,10 @@
 		<conf name="test" visibility="public" description="" extends="runtime"/>
 		<conf name="provided" visibility="public" description=""/>
 		<conf name="optional" visibility="public" description=""/>
-
-
-
-
+		
+		
+		
+		
 		<conf name="sources" visibility="public" description=""/>
 		<conf name="docs" visibility="public" description=""/>
 		<conf name="pom" visibility="public" description=""/>
