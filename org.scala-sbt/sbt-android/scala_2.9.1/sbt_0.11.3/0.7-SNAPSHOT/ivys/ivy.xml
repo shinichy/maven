@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.scala-sbt" module="sbt-android" revision="0.7-SNAPSHOT" status="integration" publication="20130619200227" e:scalaVersion="2.9.2" e:sbtVersion="0.12">
+	<info organisation="org.scala-sbt" module="sbt-android" revision="0.7-SNAPSHOT" status="integration" publication="20130619200227" e:scalaVersion="2.9.1" e:sbtVersion="0.11.3">
 		<description>
 		sbt-android
 		</description>
@@ -11,10 +11,10 @@
 		<conf name="test" visibility="public" description="" extends="runtime"/>
 		<conf name="provided" visibility="public" description=""/>
 		<conf name="optional" visibility="public" description=""/>
-		
-		
-		
-		
+
+
+
+
 		<conf name="sources" visibility="public" description=""/>
 		<conf name="docs" visibility="public" description=""/>
 		<conf name="pom" visibility="public" description=""/>
